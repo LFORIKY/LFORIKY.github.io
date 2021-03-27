@@ -1,0 +1,2 @@
+# LFORIKY.github.io
+blog
